@@ -3,18 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cascadess"]
-	path = cascadess
-	url = https://github.com/nteetor/cascadess
-	shallow = true
-	registered = true
 [submodule "tinsel"]
 	path = tinsel
 	url = https://github.com/nteetor/tinsel
-	shallow = true
-	registered = true
-[submodule "yonder"]
-	path = yonder
-	url = https://github.com/nteetor/yonder
 	shallow = true
 	registered = true

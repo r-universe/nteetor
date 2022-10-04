@@ -1,14 +1,6 @@
 [
   {
-    "package": "cascadess",
-    "oncran": true
-  },
-  {
     "package": "tinsel",
-    "oncran": true
-  },
-  {
-    "package": "yonder",
     "oncran": true
   }
 ]
